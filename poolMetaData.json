@@ -1,8 +1,7 @@
-cat > poolMetaData.json << EOF
 {
-"name": "MyPoolName",
-"description": "My pool description",
-"ticker": "MPN",
-"homepage": "https://git.io"
+"name": "TerrierPool",
+"description": "The Terrier Pool",
+"ticker": "TERR",
+"homepage": "https://github.com/wazzakk/Terrier/poolMetaData.json"
 }
-EOF
+
